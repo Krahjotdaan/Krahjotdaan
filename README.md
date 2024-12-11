@@ -6,9 +6,6 @@ Hi! My name is Artem
 * 🎓 I study at [Central University](https://centraluniversity.ru/)
 * 🎓 Student at [The Moscow School of Programmers](https://mshp.informatics.ru)(2020-2024)
 * 🎓 I'm qualified as drone operator
-* 🏆 Winner of the bootcamp "IT Vacation" of the Central University(2024)
-* 🏆 Prizewinner of the Pre-Professional Exam in IT track(2024)
-* 🏆 Participant in the finals of the Scientific and Practical Conference "Engineers of the Future" in IT track(2023) 
 
 ### My stack
 
