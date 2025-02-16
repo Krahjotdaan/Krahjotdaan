@@ -2,7 +2,7 @@ Hi! My name is Artem
 =============================================================================================================================
 
 * 🌍 I'm based in Moscow, Russian Federation
-* 🧠 I'm learning ML, Web3
+* 🧠 I'm learning ML and Java
 * 🎓 I study at [Central University](https://centraluniversity.ru/)
 * 🎓 Student at [The Moscow School of Programmers](https://mshp.informatics.ru)(2020-2024)
 * 🎓 I'm qualified as drone operator
