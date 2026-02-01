@@ -4,7 +4,7 @@
 - 🌍 I'm based in Moscow, Russian Federation  
   
 
-- 🧠 I'm learning Deep Learning, Databases fo ML and Cybersecurity 
+- 🧠 I'm learning Deep Learning, Databases for ML and Cybersecurity 
   
 
 - 🎓 I study at [Central University](https://centraluniversity.ru/)  
