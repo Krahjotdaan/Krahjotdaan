@@ -4,7 +4,7 @@
 - 🌍 I'm based in Moscow, Russian Federation  
   
 
-- 🧠 I'm learning ML and Java  
+- 🧠 I'm learning Deep Learning, Databases fo ML and Cybersecurity 
   
 
 - 🎓 I study at [Central University](https://centraluniversity.ru/)  
@@ -13,7 +13,7 @@
 - 🎓 Student at [The Moscow School of Programmers](https://mshp.informatics.ru)(2020-2024)  
   
 
-* 🎓 I'm qualified as drone operator  
+* 🎓 I'm qualified as UAV operator  
   
 
 <br/>  
