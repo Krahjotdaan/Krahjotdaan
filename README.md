@@ -57,7 +57,7 @@
 
 ### ML 
 <div>
-<a href="https://scikit-learn.org/stable/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" height="50" /></a>
+<a href="https://scikit-learn.org/stable/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" height="50" /></a>
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 </div>
